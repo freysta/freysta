@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<html>
+
+<body>
+  <header> <h1> Portifólio</h1> </header>
+  <main>
+
+   <h1> Um <strong> front-end</strong> de qualidade você encontra aqui!</h1>
+   <p> Hello, sou o Lucena um dos desenvolvedores especializados em design e front-end da empresa, prazer.</p>
+   <a href="https://instagram.com/biel.lucenaa">Instagram</a>
+   <a href="">Github</a>
+   <h2> Minhas especializações</h2>
+      <ul>
+         <li>React</li>
+         <hr>
+         <li>JavaScript</li>
+         <hr>
+         <li>CSS</li>
+         <hr>
+         <li>HTML</li>
+         <hr>
+         <li>Futuramente PostGreeSQL</li>
+         <hr>
+      </ul>
+
+
+  </main>
+  <footer>
+   
+</footer>
+
+ </body>
+
+</html>
