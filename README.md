@@ -26,34 +26,7 @@
          <li>Futuramente PostGreeSQL</li>
          <hr>
       </ul>
-<style>
 
-		.gmail {
-			background-color: #dd4b39;
-			color: #fff;
-			border-radius: 50%;
-			padding: 10px;
-			display: inline-block;
-			margin-right: 10px;
-		}
-		.gmail i {
-			font-size: 24px;
-		}
-
-		/* Estilos para o ícone do GitHub */
-		.github {
-			background-color: #24292e;
-			color: #fff;
-			border-radius: 50%;
-			padding: 10px;
-			display: inline-block;
-		}
-		.github i {
-			font-size: 24px;
-		}
-	</style>
-
-    </css>
 
   </main>
   <footer>
@@ -63,5 +36,4 @@
  </body>
 
 </html>
-
 
