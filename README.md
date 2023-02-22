@@ -26,7 +26,7 @@
          <li>Futuramente PostGreeSQL</li>
          <hr>
       </ul>
-<css>
+<style>
 
 		.gmail {
 			background-color: #dd4b39;
