@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   <main>
 
    <h1> Um <strong> front-end</strong> de qualidade você encontra aqui!</h1>
-   <p> Hello, sou o Lucena um dos desenvolvedores especializados em design e front-end da empresa, prazer.</p>
+   <p> Hello, sou o Lucena um desenvolvedor especializado em design e front-end  prazer.</p>
    <a href="https://instagram.com/biel.lucenaa">Instagram</a>
-   <a href="">Github</a>
+   <a href="https://github.com/freysta">Github</a>
    <h2> Minhas especializações</h2>
       <ul>
          <li>React</li>
