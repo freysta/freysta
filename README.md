@@ -1,19 +1,4 @@
-### Hi there 👋
 
-<!--
-**freysta/freysta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <html>
 
 <body>
@@ -24,6 +9,10 @@ Here are some ideas to get you started:
    <p> Hello, sou o Lucena um desenvolvedor especializado em design e front-end  prazer.</p>
    <a href="https://instagram.com/biel.lucenaa">Instagram</a>
    <a href="https://github.com/freysta">Github</a>
+	<p>
+		<span class="gmail"><i class="fa fa-envelope"></i></span>
+		<span class="github"><i class="fa fa-github"></i></span>
+    </p>
    <h2> Minhas especializações</h2>
       <ul>
          <li>React</li>
@@ -37,7 +26,34 @@ Here are some ideas to get you started:
          <li>Futuramente PostGreeSQL</li>
          <hr>
       </ul>
+<css>
 
+		.gmail {
+			background-color: #dd4b39;
+			color: #fff;
+			border-radius: 50%;
+			padding: 10px;
+			display: inline-block;
+			margin-right: 10px;
+		}
+		.gmail i {
+			font-size: 24px;
+		}
+
+		/* Estilos para o ícone do GitHub */
+		.github {
+			background-color: #24292e;
+			color: #fff;
+			border-radius: 50%;
+			padding: 10px;
+			display: inline-block;
+		}
+		.github i {
+			font-size: 24px;
+		}
+	</style>
+
+    </css>
 
   </main>
   <footer>
@@ -47,3 +63,5 @@ Here are some ideas to get you started:
  </body>
 
 </html>
+
+
