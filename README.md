@@ -23,8 +23,6 @@
          <hr>
          <li>HTML</li>
          <hr>
-         <li>Futuramente PostGreeSQL</li>
-         <hr>
       </ul>
 
 
