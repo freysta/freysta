@@ -13,25 +13,7 @@
 		<span class="gmail"><i class="fa fa-envelope"></i></span>
 		<span class="github"><i class="fa fa-github"></i></span>
     </p>
-   <h2> Minhas especializações</h2>
-      <ul>
-         <li>React</li>
-         <hr>
-         <li>JavaScript</li> 
-         <hr>
-         <li>CSS</li>
-         <hr>
-         <li>HTML</li>
-         <hr>
-      </ul>
 
-
-  </main>
-  <footer>
-   
-</footer>
-
- </body>
 
 
 
