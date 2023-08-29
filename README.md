@@ -6,7 +6,7 @@
   <main>
 
    <h1> Um <strong> front-end</strong> de qualidade você encontra aqui!</h1>
-   <p> Hello, sou o Lucena um desenvolvedor especializado em design e front-end  prazer.</p>
+   <p> Prazer, sou o Lucena, um desenvolvedor especializado em design e front-end  prazer.</p>
    <a href="https://instagram.com/biel.lucenaa">Instagram</a>
    <a href="https://github.com/freysta">Github</a>
 	<p>
