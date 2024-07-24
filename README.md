@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Gabriel Lucena! 👋
 
-Atualmente estou estudando Analise e Desenvolvimento de Sistemas, assim como também sou formado em técnico em informática pelo Instituto Federal de Ciência e Técnologia de Rondônia (IFRO) 2023. Com conhecimento em Desenvolvimento Mobile e Web especializado em Front-End.
+Atualmente estou cursando Analise e Desenvolvimento de Sistemas, assim como também sou formado Técnico em Informática pelo Instituto Federal de Ciência e Técnologia de Rondônia (IFRO) 2023. Com conhecimento em Desenvolvimento Mobile e Web especializado em Front-End.
 
 
 ## Tecnologias
