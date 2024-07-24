@@ -9,7 +9,7 @@ Atualmente estou estudando Analise e Desenvolvimento de Sistemas, assim como tam
 
 
 - Linguagens de Programação: Kotlin, Java Script, C#, PHP...
-- Frameworks e Bibliotecas: React & React Native, Tailwind CSS.
+- Frameworks e Bibliotecas: React, Tailwind CSS, Laravel, Angular.
 - Ferramentas: Git & Docker
 
 ## Estatísticas do GitHub
