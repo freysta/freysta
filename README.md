@@ -4,11 +4,11 @@
 
 
 <h1 align="center" style="font-family: 'Press Start 2P', cursive; font-size:2.5rem; margin-top:1rem;">
-  Olá, eu sou o Gabriel Lucena! 👋
+  Olá, eu sou o Gabriel Lucena! 🤖
 </h1>
 
 <p align="center">
-  <strong>Transformando ideias em experiências digitais.</strong>
+  <strong>Anything is possible with some brainpower—the only limit is the time it takes.</strong>
 </p>
 
 <p align="center">
