@@ -53,10 +53,4 @@
 
 ---
 
-## 🚀 Minha Filosofia
-
-> "Programar é transformar ideias em realidade – cada linha de código é um passo rumo a um mundo mais conectado e inovador."
-
----
-
 *Este perfil está em constante evolução. Sinta-se à vontade para explorar, comentar e sugerir melhorias!*
