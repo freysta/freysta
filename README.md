@@ -1,6 +1,3 @@
-
-#  Gabriel Lucena - Desenvolvedor Front End & Mobile
-
 <div align="center"> <img src="https://i.redd.it/bpxxqqvps4h91.gif" alt="Cover GIF" width="100%" style="max-height:200px; object-fit:cover; border-radius: 15px;"/> <h1> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A90E2&center=true&width=500&lines=Olá%2C+eu+sou+Gabriel!+👋;Front-End+Developer;Q.A+%26+AWS+Engineer;Co-Owner+%40+IAD+Tech;React+%26+React+Native" alt="Typing SVG" /> </h1> <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;"> <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 15px; margin: 20px 0;"> <div style="text-align: center; padding: 15px; background: #f8f9fa; border-radius: 10px; min-width: 200px;"> <h4 style="margin: 0; color: #4A90E2;">🎓 Formação : </h4> <p style="margin: 5px 0; font-size: 14px;"> <strong>Análise e Desenvolvimento de Sistemas</strong><br/> <em>Em andamento</em> </p> <p style="margin: 5px 0; font-size: 14px;"> <strong>Técnico em Informática</strong><br/> <em>IFRO (2023)</em> </p> </div>
 
 ### 💼 Experiências Atuais
