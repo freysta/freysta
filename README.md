@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A90E2&center=true&width=600&lines=Olá%2C+eu+sou+o+Gabriel!+👋;Full+Stack+Developer;QA+%26+AWS+Engineer;React+%26+React+Native;NestJS+%26+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A90E2&center=true&width=600&lines=Olá%2C+eu+sou+o+Gabriel!+👋;Full+Stack+Developer;Suporte+Técnico+%26+Sistemas;React+%26+React+Native;NestJS+%26+Node.js" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lucena-ferreira)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usebiel2005@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellucenaferreira.ti@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/freysta)
 
 </div>
@@ -18,11 +18,10 @@
 
 ## Sobre mim
 
-Desenvolvedor **Full Stack** com foco em aplicações **web e mobile**, atuando com TypeScript, Node.js, NestJS, React e React Native. Tenho experiência prática em desenvolvimento de APIs REST, integração de sistemas, bancos de dados relacionais e Firebase. Vivência em **QA**, testes automatizados e manuais, **AWS** e metodologias ágeis (Scrum).
+Desenvolvedor **Full Stack** com foco em aplicações **web e mobile**, atuando com C#, TypeScript, Node.js, NestJS, React e React Native. Experiência prática em desenvolvimento de APIs REST, integração de sistemas e bancos de dados relacionais. Também atuo com suporte técnico e infraestrutura, com conhecimento básico em AWS (S3, Lambda, EC2) e testes automatizados como skill complementar.
 
-- Cursando **Análise e Desenvolvimento de Sistemas** — IFRO (conclusão: dez/2026)
-- Estágio em **QA & AWS** na [Compass UOL](https://compass.uol) · *07/2025 – 12/2025*
-- Bolsista **QA & Suporte** no PROINFE – IFRO · *05/2024 – atual*
+- Cursando **Análise e Desenvolvimento de Sistemas** — IFRO (conclusão prevista: dez/2026)
+- Atualmente **Técnico de Suporte Sênior** — TRE-RO / Get Info Soluções
 - Ji-Paraná, Rondônia — BR
 - Português (nativo) · Inglês (intermediário) · Espanhol (básico)
 
@@ -32,7 +31,7 @@ Desenvolvedor **Full Stack** com foco em aplicações **web e mobile**, atuando 
 
 ### Linguagens
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,cs,kotlin" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,php,kotlin" />
 </p>
 
 ### Frameworks & Libraries
@@ -52,7 +51,7 @@ Desenvolvedor **Full Stack** com foco em aplicações **web e mobile**, atuando 
   <img src="https://skillicons.dev/icons?i=git,docker,aws,figma,vscode,androidstudio,postman" />
 </p>
 
-### QA & Testes
+### Qualidade & Automação (skill complementar)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=selenium" />
   &nbsp;
@@ -67,45 +66,11 @@ Desenvolvedor **Full Stack** com foco em aplicações **web e mobile**, atuando 
 
 | Período | Empresa | Papel |
 |---|---|---|
-| 07/2025 – 12/2025 | **Compass UOL** | Estagiário QA & AWS |
-| 05/2024 – atual | **PROINFE – IFRO** | Bolsista QA & Suporte |
-| 11/2024 – 01/2025 | **CEPLAC – Min. Agricultura** | Bolsista Dev de Sistemas |
-| 06/2024 – 11/2024 | **Wadt Engenharia e TI** | Analista de Sistemas |
-
----
-
-## Projetos em Destaque
-
-### ApprovaJÁ — App de Financiamento Automotivo
-> *Freelancer · 06/2025 – 09/2025*
-
-App mobile completo para simulação e contratação de financiamentos com fluxo end-to-end: simulação → análise → aprovação → contrato → pagamentos. Dashboard administrativo em tempo real, integração com Firebase e publicado na **App Store & Google Play**.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,ts,mysql,firebase" />
-</p>
-
----
-
-### Saboaria Rondônia — Sistema de Gestão Industrial
-> *Freelancer · 11/2024 – 02/2025*
-
-Sistema web completo para gestão de estoque de matérias-primas, produtos finais, ordens de produção e controle de envase para empresa industrial.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
-</p>
-
----
-
-### NNT – App de Conexão Clientes & Prestadores
-> *IFCE · 06/2023 – 12/2023*
-
-Aplicativo mobile para conectar clientes a prestadores de serviços gerais com foco em acessibilidade, desenvolvido durante programa de empreendedorismo e UX/UI com Figma.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,firebase,figma" />
-</p>
+| 2026 – atual | **TRE-RO / Get Info Soluções** | Técnico de Suporte Sênior |
+| 2025 – 2026 | **PROINFE – IFRO** | Desenvolvedor Web Junior |
+| 2025 | **Compass UOL** | Estagiário QA & Suporte AWS |
+| 2024 – 2025 | **CEPLAC – Min. Agricultura** | Bolsista Dev de Sistemas |
+| 2024 | **Wadt Engenharia e TI** | Analista de Sistemas |
 
 ---
 
