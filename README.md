@@ -5,12 +5,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-lucena-ferreira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:usebiel2005@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  <a href="https://iadtech.com.br/">IAD TECH</a>
 </p>
 
 ## Sobre
 
-Sou desenvolvedor full stack e gosto de acompanhar o produto por inteiro: entender o problema, construir a solução e colocá-la em produção. Atualmente trabalho como Técnico de Suporte Sênior no TRE-RO e, em paralelo, desenvolvo a **Federada** e projetos de software sob medida na **[IAD TECH](https://iadtech.com.br/)**.
+Sou desenvolvedor full stack e gosto de acompanhar o produto por inteiro: entender o problema, construir a solução e colocá-la em produção. Atualmente trabalho como Técnico de Suporte Sênior no TRE-RO e, em paralelo, desenvolvo a **Federada** e outros projetos web e mobile.
 
 Cursando Análise e Desenvolvimento de Sistemas no IFRO, com conclusão prevista para dezembro de 2026. Moro em Ji-Paraná, Rondônia.
 
@@ -28,10 +27,6 @@ Plataforma em produção para gestão de atléticas e competições. Desenvolvo 
 Aplicativo de financiamento automotivo com fluxo de simulação e contratação, painel administrativo, integrações com APIs e notificações. Participei do desenvolvimento mobile e do ciclo de builds e publicação para iOS e Android.
 
 **Tecnologias:** React Native, TypeScript, NestJS, MySQL e Firebase.
-
-### IAD TECH
-
-Na IAD TECH, criamos soluções digitais sob medida — de sistemas web e aplicativos a e-commerces, landing pages e automações. [Conheça o portfólio](https://iadtech.com.br/#portfolio).
 
 ## Tecnologias e ferramentas
 
