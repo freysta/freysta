@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-lucena-ferreira">LinkedIn</a> ·
-  <a href="mailto:usebiel2005@gmail.com">E-mail</a> ·
-  <a href="https://iadtech.com.br/">IAD TECH</a>
+  <a href="https://www.linkedin.com/in/gabriel-lucena-ferreira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:usebiel2005@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://iadtech.com.br/"><img src="https://iadtech.com.br/logo-ida.svg" width="18" height="20" alt="Logo IAD TECH" /> <strong>IAD TECH</strong></a>
 </p>
 
 ## Sobre
