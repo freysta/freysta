@@ -7,28 +7,28 @@
   <a href="mailto:usebiel2005@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
-## Sobre
+# Sobre
 
 Sou desenvolvedor full stack e gosto de acompanhar o produto por inteiro: entender o problema, construir a solução e colocá-la em produção. Atualmente trabalho como Técnico de Suporte Sênior no TRE-RO e, em paralelo, desenvolvo a **Federada** e outros projetos web e mobile.
 
 Cursando Análise e Desenvolvimento de Sistemas no IFRO, com conclusão prevista para dezembro de 2026. Moro em Ji-Paraná, Rondônia.
 
-## Projetos
+# Projetos
 
-### Federada
+## Federada
 
 Plataforma em produção para gestão de atléticas e competições. Desenvolvo o produto de ponta a ponta, incluindo equipes, inscrições, partidas, documentos, pagamentos e administração.
 
 **Tecnologias:** React, TypeScript, NestJS, PostgreSQL e Docker.<br />
 **Site:** [federada.com.br](https://federada.com.br)
 
-### ApprovaJÁ
+## ApprovaJÁ
 
 Aplicativo de financiamento automotivo com fluxo de simulação e contratação, painel administrativo, integrações com APIs e notificações. Participei do desenvolvimento mobile e do ciclo de builds e publicação para iOS e Android.
 
 **Tecnologias:** React Native, TypeScript, NestJS, MySQL e Firebase.
 
-## Tecnologias e ferramentas
+# Tecnologias e ferramentas
 
 **Desenvolvimento web e backend**
 
@@ -53,7 +53,7 @@ Experiência com builds e publicação de aplicativos para iOS e Android.
 </p>
 
 Também trabalho com APIs REST, PHP/Scriptcase, Robot Framework, testes funcionais e validação de APIs.
-## Experiência
+# Experiência
 
 | Período | Empresa | Atuação |
 |---|---|---|
@@ -63,7 +63,7 @@ Também trabalho com APIs REST, PHP/Scriptcase, Robot Framework, testes funciona
 | 2024 – 2025 | **CEPLAC / MAPA** | Desenvolvimento de módulos do BAGCACAU |
 | 2024 | **Wadt Engenharia e TI** | Análise, desenvolvimento e manutenção de sistemas |
 
-## Formação
+# Formação
 
 - **Análise e Desenvolvimento de Sistemas** — IFRO · conclusão prevista para 12/2026
 - **Técnico em Informática** — IFRO · 2022

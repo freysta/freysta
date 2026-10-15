@@ -8,9 +8,9 @@
   <rect x="1000" y="64" width="112" height="172" fill="#3D5CF9"/>
   <rect x="1084" y="118" width="48" height="86" fill="#FE6E00"/>
   <rect x="1018" y="218" width="126" height="6" fill="#00BFD6"/>
-  <text x="64" y="78" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2.2">GABRIEL LUCENA FERREIRA</text>
-  <text x="64" y="145" fill="#111827" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="-1.6">Desenvolvedor full stack</text>
+  <text x="64" y="78" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="2.2">GABRIEL LUCENA FERREIRA</text>
+  <text x="64" y="145" fill="#111827" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="-1.6">Desenvolvedor full stack</text>
   <rect x="65" y="174" width="52" height="5" rx="2.5" fill="#FE6E00"/>
-  <text x="64" y="218" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="400">Produtos web e mobile, da ideia à publicação.</text>
-  <text x="64" y="258" fill="#3D5CF9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.1">JI-PARANÁ, RONDÔNIA  ·  BRASIL</text>
+  <text x="64" y="218" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="400">Produtos web e mobile, da ideia à publicação.</text>
+  <text x="64" y="258" fill="#3D5CF9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="1.1">JI-PARANÁ, RONDÔNIA  ·  BRASIL</text>
 </svg>
