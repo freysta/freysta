@@ -35,12 +35,29 @@ Na IAD TECH, criamos soluções digitais sob medida — de sistemas web e aplica
 
 ## Tecnologias e ferramentas
 
-- **Web:** React, Next.js, TypeScript e JavaScript
-- **Mobile:** React Native, Xcode, Android Studio e publicação para iOS e Android
-- **Backend:** Node.js, NestJS, APIs REST, PHP e Scriptcase
-- **Dados e infraestrutura:** PostgreSQL, MySQL, Firebase, Docker e AWS
-- **Qualidade:** Robot Framework, testes funcionais e validação de APIs
+**Desenvolvimento web e backend**
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs" alt="TypeScript, JavaScript, React, Next.js, Node.js e NestJS" />
+</p>
+
+**Mobile e publicação**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="42" height="42" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="42" height="42" alt="Xcode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="42" height="42" alt="Android Studio" />
+</p>
+
+Experiência com builds e publicação de aplicativos para iOS e Android.
+
+**Dados e ferramentas**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,aws,git" alt="PostgreSQL, MySQL, Firebase, Docker, AWS e Git" />
+</p>
+
+Também trabalho com APIs REST, PHP/Scriptcase, Robot Framework, testes funcionais e validação de APIs.
 ## Experiência
 
 | Período | Empresa | Atuação |
