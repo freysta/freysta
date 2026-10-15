@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="36" y1="24" x2="1150" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A1021"/>
+      <stop offset="1" stop-color="#101A35"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="72" y1="90" x2="816" y2="289" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#72D6FF"/>
+      <stop offset=".53" stop-color="#6D8CFF"/>
+      <stop offset="1" stop-color="#B59BFF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(430 195 -132 291 1055 80)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3D5CF9" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#3D5CF9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="card" x1="842" y1="68" x2="1128" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#182448"/>
+      <stop offset="1" stop-color="#10182D"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="358" rx="28" fill="url(#bg)" stroke="#283556" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="358" rx="28" fill="url(#glow)"/>
+  <path d="M0 285C234 244 399 332 650 282s356-152 550-121" stroke="#26375F" stroke-opacity=".45"/>
+  <path d="M0 316c251-56 398 17 637-31s369-153 563-123" stroke="#26375F" stroke-opacity=".28"/>
+  <circle cx="1102" cy="46" r="3" fill="#78D8FF"/>
+  <circle cx="1141" cy="86" r="2" fill="#A895FF"/>
+  <circle cx="1036" cy="111" r="2" fill="#78D8FF"/>
+  <rect x="64" y="54" width="145" height="30" rx="15" fill="#192849" stroke="#30446F"/>
+  <circle cx="82" cy="69" r="4" fill="#63D5FF"/>
+  <text x="95" y="74" fill="#C9D7F5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.7">GABRIEL LUCENA</text>
+  <text x="64" y="151" fill="#F5F7FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="750" letter-spacing="-1.8">Construindo produtos</text>
+  <text x="64" y="207" fill="url(#accent)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="750" letter-spacing="-1.8">web e mobile.</text>
+  <text x="66" y="247" fill="#AAB6D0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Full stack • React Native • Da ideia ao deploy</text>
+  <rect x="64" y="278" width="154" height="34" rx="17" fill="#3D5CF9"/>
+  <text x="86" y="300" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing=".4">SOFTWARE SOB MEDIDA</text>
+  <rect x="826" y="49" width="306" height="258" rx="24" fill="url(#card)" stroke="#34466F" stroke-width="1.5"/>
+  <rect x="848" y="70" width="262" height="162" rx="15" fill="#0C1327" stroke="#26375F"/>
+  <circle cx="871" cy="91" r="4" fill="#FF6B7A"/><circle cx="886" cy="91" r="4" fill="#FFD166"/><circle cx="901" cy="91" r="4" fill="#62D6A5"/>
+  <path d="M873 124h48" stroke="#72D6FF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M873 146h91" stroke="#9AABCC" stroke-opacity=".74" stroke-width="5" stroke-linecap="round"/>
+  <path d="M873 168h69" stroke="#9AABCC" stroke-opacity=".48" stroke-width="5" stroke-linecap="round"/>
+  <path d="M873 190h112" stroke="#6D8CFF" stroke-opacity=".8" stroke-width="5" stroke-linecap="round"/>
+  <rect x="1008" y="112" width="73" height="102" rx="13" fill="#15264A" stroke="#4B68D2"/>
+  <rect x="1018" y="126" width="53" height="68" rx="7" fill="#0B1327"/>
+  <circle cx="1044.5" cy="203" r="3" fill="#94A9FF"/>
+  <text x="849" y="267" fill="#F0F4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">IDEIA  →  PRODUTO  →  PRODUÇÃO</text>
+  <text x="849" y="287" fill="#8F9FBE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">IAD TECH  ·  Ji-Paraná, RO</text>
+</svg>
